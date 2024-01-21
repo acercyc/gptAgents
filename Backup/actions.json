@@ -1,0 +1,17 @@
+[
+    {
+        "action": "SPEAK",
+        "text": "",
+        "_comment": "Speak to user"
+    },
+    {
+        "action": "ASK USER",
+        "question": "",
+        "_comment": "Ask user for input"
+    },
+    {
+        "action": "Use CommandTool",
+        "command": "",
+        "_comment": "run Windows terminal command"
+    },
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "action": "Use CommandTool",
+        "command": "",
+        "_comment": "run windows terminal command"
+    },
+    {
+        "action": "Use PythonInteractiveTool",
+        "code_str": "",
+        "_comment": "run Python code"
+    },
+    {
+        "action": "Use PythonScriptTool",
+        "filepath": "",
+        "code": "",
+        "_comment": "create Python script file and run it"
+    }
+]
